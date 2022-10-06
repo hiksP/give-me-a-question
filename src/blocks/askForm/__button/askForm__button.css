@@ -1,0 +1,15 @@
+.askForm__button {
+    background: #3456f3 url(../../../images/button-icon.png) 50% no-repeat;
+    border: 1px solid #3456f3;
+    border-radius: 48px;
+    height: 34px;
+    margin: 0 60px 0 0;
+    padding: 0;
+    transition: opacity .4s ease-in;
+    width: 80px;
+}
+
+.askForm__button:hover {
+    cursor: pointer;
+    opacity: .4;
+}

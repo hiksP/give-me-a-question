@@ -1,0 +1,6 @@
+@import url(../../blocks/askForm/askForm.css);
+@import url(../../blocks/askForm/__container/askForm__container.css);
+@import url(../../blocks/askForm/__image/askForm__image.css);
+@import url(../../blocks/askForm/__form/askForm__form.css);
+@import url(../../blocks/askForm/__input/askForm__input.css);
+@import url(../../blocks/askForm/__button/askForm__button.css);

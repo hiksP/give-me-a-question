@@ -1,0 +1,8 @@
+.askForm {
+    display: flex;
+    justify-content: center;
+    max-width: 1140px;
+    width: calc(100% - 140px);
+    margin: 20px auto 0;
+    padding: 20px 0;
+}
