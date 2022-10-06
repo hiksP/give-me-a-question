@@ -1,0 +1,9 @@
+.footer__text { 
+    font-size: 17px;
+    line-height: 15px;
+    font-weight: 700;
+    align-self: center;
+    margin: 0 15px 0 30px;
+    padding: 0;
+    color: white;
+}

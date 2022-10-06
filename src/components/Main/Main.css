@@ -1,0 +1,5 @@
+@import url(../../blocks/main/main.css);
+@import url(../../blocks/main/__text-container/main__text-container.css);
+@import url(../../blocks/main/__text/main__text.css);
+@import url(../../blocks/main/__answer-text/main__answer-text.css);
+@import url(../../blocks/main/__answer/main__answer.css);
