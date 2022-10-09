@@ -1,6 +1,8 @@
 .askForm {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
     max-width: 1140px;
     width: calc(100% - 140px);
     margin: 20px auto 0;

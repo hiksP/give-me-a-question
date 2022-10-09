@@ -1,0 +1,9 @@
+.askForm__button_disabled {
+    transition: none;
+    background-color: grey;
+    border: grey;
+}
+
+.askForm__button_disabled:hover {
+    opacity: 1;
+}

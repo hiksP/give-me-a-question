@@ -1,0 +1,8 @@
+.askForm__error {
+    display: none;
+    color: red;
+    font-size: 14px;
+    line-height: 12px;
+    margin: 0;
+    padding: 5px 0 0 0;
+}

@@ -10,9 +10,11 @@ export default function App() {
 
   const [image, setImgae] = useState()
   const [answer, setAnswer] = useState('')
+  const [preloader, setPreloader] = useState(false);
 
 
   const answerHandler = () => {
+    setPreloader(true)
     questionsApi.getAnswer()
     .then((res) => {
       setImgae(res.image)
@@ -22,7 +24,9 @@ export default function App() {
       alert(err);
     })
     .finally(() => {
-      
+      setTimeout(() => {
+        setPreloader(false)
+      }, 3000)
     })
   }
 
@@ -30,7 +34,7 @@ export default function App() {
     <div className='page'>
       <Header></Header>
       <AskForm answerHandler={answerHandler}></AskForm>
-      <Main answer={answer} image={image}></Main>
+      <Main answer={answer} image={image} preloader={preloader}></Main>
       <Footer></Footer>
     </div>
   );

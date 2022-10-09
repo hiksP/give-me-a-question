@@ -3,4 +3,7 @@
 @import url(../../blocks/askForm/__image/askForm__image.css);
 @import url(../../blocks/askForm/__form/askForm__form.css);
 @import url(../../blocks/askForm/__input/askForm__input.css);
+@import url(../../blocks/askForm/__error/askForm__error.css);
+@import url(../../blocks/askForm/__error/_active/askForm__error_acitve.css);
 @import url(../../blocks/askForm/__button/askForm__button.css);
+@import url(../../blocks/askForm/__button/_disabled/askForm__button_disabled.css);
