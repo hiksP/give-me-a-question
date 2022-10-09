@@ -1,0 +1,9 @@
+.popup__text-container {
+    align-self: center;
+    height: 100%;
+    width: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -4,4 +4,10 @@
     font-weight: 400;
     padding: 0;
     margin: 0;
+    transition: ease-in-out .4s opacity;
+}
+
+.footer__list-item:hover {
+    opacity: .4;
+    cursor: pointer;
 }

@@ -1,0 +1,11 @@
+.popup__text {
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    color: wheat;
+	background-color: rgba(0, 0, 0, 0.6);
+	box-shadow: -10px 0 0 rgba(0, 0, 0, 0.6), 10px 0 0 rgba(0, 0, 0, 0.6);
+	padding: 0 10px 0 0;
+}

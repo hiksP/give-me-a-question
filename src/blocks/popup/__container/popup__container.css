@@ -1,0 +1,13 @@
+.popup__container {
+    flex-direction: column;
+    position: relative;
+    display: flex;
+    width: 500px;
+    height: 330px;
+    border-radius: 10px;
+    background: url(../../../images/background_image.jpg) no-repeat center;
+    background-size: contain;
+    justify-content: center;
+    align-self: center;
+    z-index: 5;
+}
