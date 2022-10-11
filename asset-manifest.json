@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/give-me-a-question/static/css/main.c6fdcdc1.css",
+    "main.js": "/give-me-a-question/static/js/main.f095f7a0.js",
+    "static/js/787.0f8fd0fa.chunk.js": "/give-me-a-question/static/js/787.0f8fd0fa.chunk.js",
+    "static/media/background_image.jpg": "/give-me-a-question/static/media/background_image.5748e6939542166cf2b4.jpg",
+    "static/media/questionMark.svg": "/give-me-a-question/static/media/questionMark.b898f33169ef09e84a850dd9e61e800e.svg",
+    "static/media/button-icon.svg": "/give-me-a-question/static/media/button-icon.8c479f86f4cb5f9fb09c.svg",
+    "index.html": "/give-me-a-question/index.html",
+    "static/media/search-icon.svg": "/give-me-a-question/static/media/search-icon.95905a7740041efe54fd0638e13cdab4.svg",
+    "static/media/popupCloseButton.svg": "/give-me-a-question/static/media/popupCloseButton.039f1f5203f653b4bacd.svg",
+    "main.c6fdcdc1.css.map": "/give-me-a-question/static/css/main.c6fdcdc1.css.map",
+    "main.f095f7a0.js.map": "/give-me-a-question/static/js/main.f095f7a0.js.map",
+    "787.0f8fd0fa.chunk.js.map": "/give-me-a-question/static/js/787.0f8fd0fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fdcdc1.css",
+    "static/js/main.f095f7a0.js"
+  ]
+}
