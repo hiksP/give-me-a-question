@@ -7,7 +7,7 @@ import Popup from '../Popup/Popup';
 import {questionsApi} from '../../utils/api'
 import {useState, useEffect} from 'react'
 
-export default function App() {
+export default function   App() {
 
   const [image, setImgae] = useState();
   const [answer, setAnswer] = useState('');
@@ -28,7 +28,7 @@ export default function App() {
     .finally(() => {
       setTimeout(() => {
         setPreloader(false)
-      }, 3000)
+      }, 3300)
     })
   }
 
